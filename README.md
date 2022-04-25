@@ -2,6 +2,8 @@
 
 Projeto de exemplo de landscape onde pude exercer o uso do CSS Grid Layout junto à questão da responsividade + o Javascript na substituição do menu.
 
+Tecnologias utilizadas para esse exercício: HTML, CSS, Javascript e Figma. 
+
 Link de acesso ao projeto: 
 https://extraordinary-bonbon-5057a3.netlify.app/
 
